@@ -1,0 +1,50 @@
+main(): login as manager
+showManagerMenu(): Hire a new employee
+doHire(): New employee JamesJohnPat4223 Hand Parkway, North Lauderdale, Australian Capital Territory 0635, Australia added.
+showManagerMenu(): Fire an employee
+doFire(): Employee 1000 terminated.
+showManagerMenu(): Promote an employee
+doPromote(): Employee 1000 promoted.
+main(): login as manager
+showManagerMenu(): Generate new database
+doSaveFile(): employees saved to data.txt
+main(): login as manager
+showManagerMenu(): Generate new database
+doSaveFile(): employees saved to data.txt
+main(): login as manager
+doLoadFile(): load employees fromdata.txt
+showManagerMenu(): Fire an employee
+doFire(): Employee 8999 terminated.
+doEdit(): Employee 8999 updated.
+main(): login as manager
+showManagerMenu(): Hire a new employee
+doHire(): New employee AllyXavierJasso604 Sebastian Crescent, Hunterville, Western Australia 4609, Australia added.
+showManagerMenu(): Hire a new employee
+doHire(): New employee AllyKurtMat7562 Johns Summit, Arlington, Australian Capital Territory 5477, Australia added.
+main(): login as manager
+showManagerMenu(): Generate new database
+doCreateLogin(): Login ID and password for Employee 8999 created.
+showManagerMenu(): manager quit menu
+main(): login as employee
+main(): login as manager
+doCreateLogin(): Login ID and password for Employee 8998 created.
+doSaveLogin(): login ids and passwords saved to ids.txt
+main(): login as manager
+showManagerMenu(): Hire a new employee
+doHire(): New employee Arias, Barrett, Daniela
+    6348 Finn Hill, Beaubury, Australian Capital Territory 1926, Australia added.
+main(): login as root manager
+showManagerMenu(): Generate new database
+main(): login as root manager
+showManagerMenu(): Generate new database
+showManagerMenu(): manager quit menu
+main(): login as root manager
+doCreateLogin(): Login ID and password for Employee 8985 created.
+doCreateLogin(): Login ID and password for Employee 8986 created.
+showManagerMenu(): manager quit menu
+main(): login as manager
+showManagerMenu(): manager quit menu
+main(): login as employee
+main(): login as root manager
+showManagerMenu(): Generate new database
+doSaveFile(): employees saved to data.txt
